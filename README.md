@@ -1,7 +1,7 @@
 # hello-world
 First repository
 
-Hi there! It's me, Vivian :)
+Hi there! It's Vivian :)
 Edmonton -> Vancouver
 
-Welcome to my Git, let's do big things!
+Let's do big things!
